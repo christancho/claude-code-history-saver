@@ -1,0 +1,12 @@
+{
+  "name": "chat-history-saver",
+  "description": "Auto-exports Claude Code conversations as readable markdown files before context compaction and on session end",
+  "version": "1.0.0",
+  "author": {
+    "name": "Christian Mendieta"
+  },
+  "repository": "https://github.com/christancho/claude-history-saver",
+  "license": "MIT",
+  "keywords": ["hooks", "export", "chat", "history", "session"],
+  "hooks": "./hooks/hooks.json"
+}
