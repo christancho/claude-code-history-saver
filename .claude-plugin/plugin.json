@@ -1,6 +1,6 @@
 {
   "name": "claude-code-history-saver",
-  "description": "Auto-exports Claude Code conversations as readable markdown files before context compaction and on session end",
+  "description": "Auto-exports Claude Code conversations as readable text files before context compaction, on session end, and on /clear",
   "version": "1.0.0",
   "author": {
     "name": "Christian Mendieta"
