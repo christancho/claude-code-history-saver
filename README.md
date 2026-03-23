@@ -75,7 +75,7 @@ The hooks register automatically — no manual configuration needed.
 ### Manual install
 
 ```bash
-git clone https://github.com/christancho/claude-history-saver.git
+git clone https://github.com/christancho/claude-code-history-saver.git
 cd claude-history-saver
 ./install.sh
 ```

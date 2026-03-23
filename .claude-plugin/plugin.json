@@ -5,7 +5,7 @@
   "author": {
     "name": "Christian Mendieta"
   },
-  "repository": "https://github.com/christancho/claude-history-saver",
+  "repository": "https://github.com/christancho/claude-code-history-saver",
   "license": "MIT",
   "keywords": ["hooks", "export", "chat", "history", "session"],
   "hooks": "./hooks/hooks.json"
