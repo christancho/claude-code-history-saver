@@ -66,13 +66,23 @@ Exports use a terminal-style format that mirrors the Claude Code CLI:
 
 ### As a Claude Code plugin (recommended)
 
+Inside a Claude Code session run:
+
+```
+/plugin marketplace add christancho/chat-autoexporter
+/plugin install chat-autoexporter@christancho
+/reload-plugins
+```
+
+The hooks register automatically — no manual configuration needed.
+
+### From a local clone
+
 Clone the repo, then inside a Claude Code session run:
 
 ```
 /plugin install /path/to/chat-autoexporter
 ```
-
-The hooks register automatically — no manual configuration needed.
 
 ### Manual install
 
