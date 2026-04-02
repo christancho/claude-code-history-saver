@@ -9,7 +9,8 @@
   "plugins": [
     {
       "name": "chat-autoexporter",
-      "description": "Auto-exports Claude Code conversations as readable text files before context compaction, on session end, and on /clear"
+      "description": "Auto-exports Claude Code conversations as readable text files before context compaction, on session end, and on /clear",
+      "source": "./"
     }
   ]
 }
