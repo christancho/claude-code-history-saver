@@ -1,7 +1,7 @@
 {
   "name": "chat-autoexporter",
   "description": "Auto-exports Claude Code conversations as readable text files before context compaction, on session end, and on /clear",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Christian Mendieta"
   },
